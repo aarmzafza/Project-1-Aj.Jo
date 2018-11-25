@@ -10,7 +10,7 @@ body {
 
 @media (min-width: 992px) {
   body {
-    padding-top: 56px;
+    padding-top: 20px;
   }
 }
 
@@ -20,7 +20,7 @@ body {
   background: url('../img/Internal_Banner_MS_Computer_Science_1900x400_18.jpg') center center no-repeat scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  background-size: cover;
+  background-size: 100%;
   -o-background-size: cover;
 }
 
